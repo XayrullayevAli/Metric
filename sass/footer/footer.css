@@ -1,0 +1,95 @@
+footer {
+  width: 100%;
+}
+footer .footer_boxs {
+  width: 100%;
+  height: 245px;
+  background-color: rgb(43, 44, 46);
+  padding-top: 35px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+footer .footer_boxs h3 {
+  font-family: "Roboto Slab";
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 22px;
+  color: var(--color13);
+  margin-bottom: 25px;
+}
+footer .footer_boxs p {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-bottom: 12px;
+  color: var(--color14);
+}
+footer .footer_boxs .footer_box {
+  width: 193px;
+  height: 40px;
+  display: flex;
+  border-radius: 2px, 0px, 0px, 2px;
+  background-color: var(--color15);
+}
+footer .footer_boxs .footer_boxx {
+  width: 129px;
+  height: 40px;
+  display: flex;
+  background-color: var(--color16);
+}
+footer .footer_boxs .footer_top_box {
+  display: flex;
+  margin-bottom: 25px;
+}
+footer .footer_boxs span {
+  margin-right: 10px;
+  color: var(--color2);
+}
+footer .footer_boxs nav {
+  display: flex;
+  padding-left: 20%;
+  gap: 80px;
+}
+footer .footer_boxs .li_a_top {
+  font-family: "Roboto";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  display: flex;
+  margin-bottom: 10px;
+  color: var(--color17);
+}
+footer .footer_boxs .li_a {
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  color: var(--color14);
+  margin-bottom: 5px;
+}
+footer .footer_boxs_bottom {
+  width: 100%;
+  height: 60px;
+  background-color: var(--color18);
+  padding-top: 19px;
+  padding-left: 25%;
+}
+footer .footer_boxs_bottom p {
+  font-family: "Roboto";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: var(--color14);
+}
+
+:root {
+  --color12: rgba(43, 44, 46, 1);
+  --color13: rgba(230, 234, 237, 1);
+  --color14: rgba(147, 149, 150, 1);
+  --color15: rgba(232, 232, 232, 1);
+  --color16: rgba(95, 97, 102, 1);
+  --color17: rgba(228, 232, 235, 1);
+  --color18: rgba(28, 29, 31, 1);
+}/*# sourceMappingURL=footer.css.map */
